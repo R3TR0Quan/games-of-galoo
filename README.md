@@ -106,7 +106,7 @@ Automate workflow management with Airflow.
 Set up monitoring for the entire data pipeline.
 
 #### Tools and Technologies
-Data Sources: Game servers, social media APIs, external APIs
+Data Sources: Game servers, social media APIs, external APIs, * Web Scraping/Crawling *
 Data Ingestion: Kafka, Flume, Logstash, Sqoop
 Data Storage: HDFS, HBase, Hive, Cassandra, MySQL/PostgreSQL
 Data Processing: Hadoop, Spark, Storm, Flink, Kafka Streams
