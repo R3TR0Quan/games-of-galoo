@@ -51,7 +51,7 @@ Implement recommendation systems for in-game purchases.
 
 #### Visualization
 
-Create dashboards using Tableau, Power BI, or Grafana.
+Create dashboards using Plotly-Dash.
 Real-time monitoring dashboards using Kibana.
 
 #### Automation and Monitoring
@@ -106,12 +106,12 @@ Automate workflow management with Airflow.
 Set up monitoring for the entire data pipeline.
 
 #### Tools and Technologies
-Data Sources: Game servers, social media APIs, external APIs, * Web Scraping/Crawling *
-Data Ingestion: Kafka, Flume, Logstash, Sqoop
-Data Storage: HDFS, HBase, Hive, Cassandra, MySQL/PostgreSQL
-Data Processing: Hadoop, Spark, Storm, Flink, Kafka Streams
-ETL Pipelines: Apache Airflow, Oozie
-Machine Learning: Spark MLlib, TensorFlow
-Visualization: Tableau, Power BI, Grafana, Kibana
-Monitoring: Nagios, Prometheus
+- Data Sources: Game servers, social media APIs, external APIs, **Web Scraping/Crawling**
+- Data Ingestion: Kafka, Flume, Logstash, Sqoop
+- Data Storage: HDFS, HBase, Hive, Cassandra, MySQL/PostgreSQL
+- Data Processing: Hadoop, Spark, Storm, Flink, Kafka Streams
+- ETL Pipelines: Apache Airflow, Oozie
+- Machine Learning: Spark MLlib, TensorFlow
+- Visualization: Tableau, Power BI, Grafana, Kibana
+- Monitoring: Nagios, Prometheus
 This project covers a wide range of data engineering concepts, from data ingestion and storage to processing, analysis, and visualization, using various big data frameworks and tools.
